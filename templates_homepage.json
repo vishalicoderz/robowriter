@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Produktbeschreibung",
+    "prompt": "Create compelling product descriptions for websites, emails and social media.\n Write an engaging product description for {produktname}. This is a short summary about the product {produktbeschreibung}. The tone of voice should be {tonfall}",
+    "placeholders": [
+      {
+        "label": "Produktname",
+        "type": "input",
+        "example": "Robowriter"
+      },
+      {
+        "label": "Produktbeschreibung",
+        "type": "textarea",
+        "example": "Eine revolutionäre KI-basierte Schreibsoftware, die dabei hilft, kreativen Inhalt zu generieren und bei der Erstellung von fehlerfreien Artikeln, Blog-Posts, Social-Media-Untertiteln und mehr unterstützt. Sie bietet stets das beste KI-Modell (ChatGPT, Google PaLM 2 und Open Source) für die jeweilige Aufgabe und minimiert Halluzinationen durch Formularvorlagen, die sicherstellen, dass die KI alle wichtigen Informationen erhält, um bestmögliche Ergebnisse zu generieren."
+      },
+      {
+        "label": "Tonfall",
+        "type": "input",
+        "example": "professionell"
+      }
+    ],
+    "replaceValues": [
+      "produktname",
+      "produktbeschreibung",
+      "tonfall"
+    ],
+    "type": "Ads",
+    "iconName": "fas fa-bullhorn",
+    "iconColor": "#5BC0C3",
+    "title": "Produktbeschreibung",
+    "description": "Erstellen Sie ansprechende Produktbeschreibungen für Webseiten, E-Mails und Social Media.",
+    "sampleOutputs": [
+      {
+        "length": "kurz",
+        "outputGer": "Erwecken Sie Ihre Inhalte mit Robowriter zum Leben - Ihrer KI-gestützten Schreibsoftware. Generieren Sie mühelos kreative Inhalte, finden Sie Inspiration für neue Ideen und erstellen Sie fehlerfreie Artikel, Blogs und Social-Media-Beiträge. Robowriter stellt sicher, dass keine wichtigen Informationen fehlen und liefert stets herausragende Ergebnisse. Eine Schreibhilfe, die Ihre Kreativität maximiert und Halluzinationen minimiert. Perfektion auf Knopfdruck - das ist Robowriter!",
+        "outputEng": "Unlock the power of AI with Robowriter, the revolutionary writing software that is transforming content creation! It supports the error-free creation of articles, blog posts, and social media captions, and also enhances your ideation process with innovative prompts. The intelligent use of form templates guarantees outstanding results by accommodating all crucial information. Robowriter - your partner for powerful, productive, and flawless prose."
+      },
+      {
+        "length": "normal",
+        "outputGer": "Entdecken Sie Robowriter – eine bahnbrechende, künstliche Intelligenz-basierte Schreibsoftware, die Ihre Kreativität entfacht und die Qualität Ihrer Inhalte revolutioniert. Robowriter leistet mehr als nur Textgenerierung – es ist Ihr persönlicher digitaler Autor, der die Herausforderung übernimmt, einzigartige, fehlerfreie Artikel, Blog-Posts, Social-Media-Untertitel und noch vieles mehr zu erstellen. \n\nUnterstützt von Large Language Models, wie ChatGPT, Google PaLM 2 und Open Source LLMs, bietet Robowriter stets das beste KI-Modell für jede gegebene Aufgabe. Es befasst sich detailliert mit allen Ihren Inputs, um sicherzustellen, dass Ihr Inhalt immer eingängig, korrekt und auf den Punkt ist. Das Ziel? Ihre Zeit zu sparen, während es qualitativ hochwertige Texte generiert.\n\nAber das ist noch nicht alles. Robowriter hält \"Halluzinationen\" bei einem Minimum und nutzt spezielle Formularvorlagen, um sicherzustellen, dass die KI alle wichtigen Informationen erhält, um die bestmöglichen Ergebnisse zu erzielen. Dies garantiert einen präzisen, zuverlässigen und äußerst effizienten Inhaltserstellungsprozess.\n\nMachen Sie noch heute den nächsten Schritt und entdecken Sie, wie Robowriter die Art und Weise, wie Sie Inhalte erstellen, transformieren kann. Mit Robowriter ist erstklassiges Schreiben nur einen Klick entfernt.",
+        "outputEng": "Introducing Robowriter - a revolutionary AI-powered writing software that is a game changer in generating creative content. It's your digital sidekick, assisting you in crafting error-free articles, engaging blog posts, captivating social media captions, and more. Robowriter doesn't just jot down words; it intelligently designs content, ensuring every piece resonates with your target audience. \n\nIncorporating the choicest AI model for the task at hand, Robowriter aims to optimize your content creation process. It minimizes 'hallucinations' by using template forms – this ensures that the AI receives all the crucial information it needs to deliver the best possible results. \n\nWith Robowriter, witness the blend of technology and creativity, transforming your ideas into compelling words. Unlock the power of AI and elevate your content game today with Robowriter."
+      },
+      {
+        "length": "lang",
+        "outputGer": "Entdecken Sie Robowriter, unsere revolutionäre KI-basierte Schreibsoftware, die neuen Standards für kreatives Schreiben setzt. Robowriter ist weit mehr als nur eine Schreibhilfe - denken Sie an einen verlässlichen Partner, der Ihnen dabei hilft, brillante Inhalte zu erstellen, immer bereit, Ihre Gedanken in Aktion zu bringen.\n\nBei Robowriter dreht sich alles darum, Ihn voranzubringen und Ihre Marke zu stärken. Ob Sie informative Artikel, einnehmende Blog-Beiträge, fesselnde Social-Media-Untertitel oder professionelle Geschäftsberichte erstellen möchten, Robowriter bringt Ihr Schreiben auf das nächste Level.\n\nUnsere Software setzt auf Künstliche Intelligenz, um die bestmöglichen Ergebnisse zu erzielen. Sie nutzt fortgeschrittene Maschinenlernmodelle, die auf riesigen Datenmengen trainiert wurden, um den Stil, Ton und Fluss Ihrer Schreibprojekte zu meistern. Jedes Mal, wenn Sie Robowriter nutzen, werden Sie von der Qualität und Genauigkeit des erstellten Inhaltes beeindruckt sein. Egal, ob Sie ein erfahrener Autor oder ein Anfänger sind, diese Software hiflt Ihnen dabei Ihre Schreibfähigkeiten zu verbessern.\n\nDarüber hinaus minimiert Robowriter die sogenannten KI-Halluzinationen. Durch sorgfältig entworfene Formularvorlagen stellt die Software sicher, dass die KI alle erforderlichen Informationen erhält. So wird die Genauigkeit der von der Software generierten Inhalte sichergestellt, und Sie können sich auf nahtlos strukturierte, detaillierte und kohärente Texte verlassen.\n\nAber das ist noch nicht alles. Robowriter geht noch einen Schritt weiter, indem es die Benutzerfreundlichkeit in den Vordergrund stellt. Mit einer intuitiven Benutzeroberfläche und reaktionsschneller Funktionalität ist Robowriter für jedermann leicht zugänglich und leicht zu bedienen. Keine technischen Kenntnisse? Keine Sorge. Alles, was Sie brauchen, ist eine Idee und Robowriter wird Ihnen helfen, sie zum Leben zu erwecken.\n\nMit Robowriter an Ihrer Seite haben Sie die Kraft, qualitativ hochwertige Inhalte zu erstellen, die Ihr Publikum begeistern werden. Es ist an der Zeit, dass Sie sich von den Beschränkungen traditioneller Schreibwerkzeuge lösen und den Weg der Innovation und Kreativität mit Robowriter einschlagen. Erfahren Sie, wie einfach und befriedigend das Schreiben sein kann, und lassen Sie Robowriter Ihre kreativen Visionen in einzigartige und überzeugende Inhalte umsetzen.",
+        "outputEng": "Introducing Robowriter: Your Innovative AI-Based Writing Solution\n\nIn the digitally-driven world where content is king, generating engaging and error-free narratives can be a daunting task. Enter Robowriter, a revolutionary AI-powered writing software that redefines the landscape of content creation. \n\nRobowriter is not just a writing application, but a dynamic tool that streamlines your creative process, helping you craft striking articles, blog posts, social media captions, and more. Its mission is simple: To empower every writer, enabling you to communicate your ideas more effectively and confidently, turning writing into an enriching experience rather than a daunting task.\n\nIt revolutionizes the way you write by providing advanced AI models, meticulously tailored for each task you undertake. The software intelligently understands the intricacies of your writing goal, thereby delivering accuracy that's unmatched. \n\nOne of the most unique features of Robowriter is its minimization of AI-induced \"hallucinations\", ensuring your content remains relevant, specific, and targeted. By leveraging pre-designed form templates, Robowriter guarantees that the AI has all the vital information it needs to produce coherent and effective content. The result is not only efficient writing but impressive outcomes that reach out and connect to your readers.\n\nRobowriter is the seamless integration of artificial intelligence and creativity. It is weaving stories out of data and turning dry facts into engaging content, making it an excellent companion for anyone involved in the field of content creation, from seasoned writers and editors to bloggers, social media managers, and aspiring authors. \n\nWith Robowriter by your side, power through writer's block, skip the stress of grammar checks, and ditch the worry of delivering meaningful content on time. Let Robowriter take care of the nitty-gritty aspects of writing while you focus on what truly matters – turning your imagination into words.\n\nExperience the future of writing with Robowriter – your one-stop solution for content creation that's not only efficient but truly creative. Fearlessly tackle any writing project with ease and accuracy. With Robowriter, streamline your writing process, communicate eloquently, and let your content truly shine. \n\nTake a step towards transforming your writing journey. Embark on a revolution with Robowriter today."
+      }
+    ]
+  },
+  {
+    "name": "LinkedIn Post",
+    "prompt": "Generate a creative and interesting LinkedIn post. The post is about the following topic: {thema}. which was solved as follows: {lösung}.Furthermore, the following information should be included: {weitereInformationen}. The audience is: {zielgruppe}. The call to action should be: {callToAction}",
+    "placeholders": [
+      {
+        "label": "Thema",
+        "type": "textarea",
+        "example": "Eine unglaubliche Konferenz mit dem Schwerpunkt KI"
+      },
+      {
+        "label": "Zielgruppe",
+        "type": "input",
+        "example": "KI-Enthusiasten und Fachleute"
+      },
+      {
+        "label": "Call To Action",
+        "type": "input",
+        "example": "Registrieren Sie sich für unsere nächste Veranstaltung"
+      },
+      {
+        "label": "Lösung",
+        "type": "input",
+        "example": "Innovative Startups und Networking-Events"
+      },
+      {
+        "label": "Weitere Informationen",
+        "type": "input",
+        "example": "Frühbuchertickets sind jetzt verfügbar"
+      }
+    ],
+    "replaceValues": [
+      "thema",
+      "zielgruppe",
+      "callToAction",
+      "lösung",
+      "weitereInformationen"
+    ],
+    "sampleOutputs": [
+      {
+        "length": "kurz",
+        "outputGer": "Bereit für etwas Unglaubliches? Eine einzigartige KI-Konferenz mit spannenden Startups, Networking-Events und mehr wartet auf Sie! \uD83D\uDCAC\uD83D\uDE80\uD83E\uDD16 Frühbuchertickets sind jetzt verfügbar! Lassen Sie sich diese Gelegenheit nicht entgehen, seien Sie Teil unserer Community aus KI-Enthusiasten und Fachleuten. Klicken Sie auf den Link und registrieren Sie sich für unsere nächste Veranstaltung! #KI #Konferenz #Networking",
+        "outputEng": "\"Brace yourselves for an incredible #AI conference packed with innovative startups and networking events! Calling all AI enthusiasts and professionals, early bird tickets are now available. Don't miss this opportunity! Register now for our next event. #ArtificialIntelligence #Conference\""
+      },
+      {
+        "length": "normal",
+        "outputGer": "\uD83D\uDCA1 Spannende Neuigkeiten für KI-Enthusiasten und Fachleute! \uD83E\uDD16\n\nWir sind begeistert, eine unglaubliche Konferenz zur künstlichen Intelligenz anzukündigen! Hier haben die größten Startups und Innovatoren der Branche die Möglichkeit, sich über die neuesten Fortschritte in KI zu informieren und unsere Zukunft gemeinsam zu gestalten.\n\nUnser Programm ist vollgepackt mit inspirierenden Vorträgen und intensiven Networking-Möglichkeiten. Ob Sie nun ein Experte auf dem Gebiet sind oder gerade erst Ihre Reise in der KI-Welt beginnen, diese Konferenz ist der ultimative Ort, um zu lernen, sich zu connecten und zu wachsen.\n\nBereit, tiefer in die Welt der künstlichen Intelligenz einzutauchen und einen Einblick in die Zukunft der Technologie zu erhalten? Dann ist der perfekte Moment gekommen, um Ihr Ticket zu sichern! \n\nÜbrigens, Frühbuchertickets sind ab sofort verfügbar! Nutzen Sie die Gelegenheit, eine denkwürdige und aufschlussreiche Erfahrung zu einem erschwinglichen Preis zu erleben.\n\nMachen Sie einen Schritt weiter in der KI-Welt und registrieren Sie sich für unsere nächste Veranstaltung. Es ist mehr als nur eine Konferenz, es ist ein Sprungbrett für Innovation und Wachstum.\n\nWir sehen uns dort! \uD83D\uDE80\n\n#KI #AI #Konferenz #Technologie #Networking #Frühbucher\n",
+        "outputEng": "\uD83D\uDD2E\uD83E\uDDE0 Dive into the world of Artificial Intelligence at our Unbelievable AI Conference! We are thrilled to offer an array of stimulating lectures, innovative presentations and first-class networking events that will push the bounds of possibilities.\n\n\uD83D\uDCA1 Our speakers are leading industry experts, trailblazers who are at the forefront of AI technology, ready to share their knowledge, insights and experiences. This is a fantastic opportunity for all AI enthusiasts and professionals to connect, learn, and evolve.\n\n\uD83C\uDF9F\uFE0F Be proactive. Reserve your spot today and take advantage of our early bird tickets! They are now available but won't last long!\n\n\uD83C\uDF88 This event is designed to inspire, educate, and bring like-minded individuals together. So, if you're eager to explore groundbreaking trends, and uncover the future of AI, this is an event you definitely should not miss!\n\n\uD83D\uDD1C Register today and be a part of our next event. Transform tomorrow today by delving deep into the fascinating universe of AI. \n\n#AIConference #ArtificialIntelligence #Networking #EarlyBirdTickets\n\nLet's set new standards in AI together! ➡\uFE0F Register now!\n"
+      },
+      {
+        "length": "lang",
+        "outputGer": "\uD83D\uDE80 Guten Tag, KI-Enthusiasten und Fachleute!\n\nIch möchte Ihre Aufmerksamkeit auf ein wirklich erstaunliches Ereignis lenken - unsere unglaubliche Konferenz zur künstlichen Intelligenz! \uD83E\uDD16 Vermutlich wissen die meisten von Ihnen, wie sehr sich die Welt der künstlichen Intelligenz in den letzten Jahren dynamisch verändert und entwickelt hat. Bei dieser Konferenz können wir zusammen die erstaunlichen Revolutionen feiern, die in der künstlichen Intelligenz stattfinden, und lernen, wie wir sie für uns und unsere Gesellschaft optimal nutzen können. \n\nBei dieser erstaunlichen Konferenz erwarten Sie hochkarätige Referenten und Experten aus den unterschiedlichsten Bereichen der Künstlichen Intelligenz. Stellen Sie Ihre Fragen direkt, tauschen Sie sich aus und gewinnen Sie tiefe Einblicke in die neuesten Technologien und in die aktuellen Forschungen. Die verschiedenen Vorträge und Diskussionsgruppen werden sicherlich viele neue innovative Gedanken und Ideen hervorbringen, die auf die Entwicklung der Künstlichen Intelligenz abzielen.\n\nDoch, es geht dabei nicht nur um das Lernen und Austauschen von Wissen. Bei dieser einzigartigen Konferenz haben Sie auch die großartige Gelegenheit, sich mit anderen KI-Enthusiasten und Fachleuten zu vernetzen. Es bietet die perfekte Plattform, um Ihre professionellen Beziehungen zu stärken und möglicherweise Partnerschaften und Kooperationen anzubahnen, die Ihnen in Zukunft dienlich sein könnten. \n\nGute Nachrichten für alle, die sich früh entscheiden - Frühbuchertickets sind jetzt verfügbar! Nutzen Sie diese Gelegenheit, um Ihr Ticket zu einem ermäßigten Preis zu sichern. Sie haben die Wahl zwischen verschiedenen Ticketoptionen, passend zu Ihren individuellen Bedürfnissen und Erwartungen.\n\nIch lade Sie herzlich ein, ein Teil dieser spannenden Reise zu werden! Melden Sie sich für dieses unvergleichliche Ereignis an und lassen Sie uns gemeinsam die aufregende Welt der Künstlichen Intelligenz erkunden und gestalten. \n\nRegistrieren Sie sich noch heute für unsere nächste Veranstaltung! Wir können es kaum erwarten, Sie bei dieser unglaublichen Konferenz zur künstlichen Intelligenz willkommen zu heißen. Lassen Sie uns gemeinsam in die Zukunft der KI blicken! \n\nKlingt das nicht fabelhaft? Bis bald auf der Konferenz! ✨\n#KI #Konferenz #Networking #Vorträge #AI #ZukunftGestalten",
+        "outputEng": "Greetings AI-enthusiasts and professionals! \n\nI'm incredibly thrilled to announce an unprecedented event on our horizon - an extraordinary conference on Artificial Intelligence that we've all been eagerly awaiting! This conference is not just another industry gathering; it's a spectacle of inspiring ideas brought to life by some of the most innovative minds in the world. \n\nAt this exceptional juncture, we're going to witness an array of Innovative presentations that will challenge our thoughts, expand our understanding and shape the future of AI. These presentations will delve into the latest research, cutting-edge breakthroughs, and the immense potential of AI to impact every facet of our lives. From healthcare to e-commerce, financial services to climate science, participants will have a golden chance to immerse themselves in the unending possibilities AI offers.\n\nBut, the excitement doesn't end there! Complementing these brilliant talks, we have organized breathtaking Networking Events. These gatherings are designed to foster collaboration between attendees, allowing for conversations filled with invaluable insights and the creation of strong professional bonds that transcend the duration of this conference. \n\nThe anticipation we feel for this event mirrors the excitement that perpetuates around us as we observe the transformative power of AI in diverse industry sectors. For this reason, we warmly invite you, the game-changers, the pioneers, the builders, the innovators, and the enthusiasts, to join us at this great summit.\n\nNow, here's the best part - Early bird tickets are now available! You heard that right! By booking in advance, you can secure your spot at this incredible event, and prepare yourself for an unmatched professional experience. This is a once-in-a-lifetime opportunity to glean expert insights, meet like-minded professionals, and brainstorm the future of AI together.\n\nIf what we've described stirs excitement in you, if you feel the pull towards shaping the future of Artificial Intelligence, then don't wait - register now for our next event! This is the call to action for every professional and enthusiast who believes in the disrupting power of AI. Let's get together to learn, share, and co-create the next big wave in technology.\n\nYour overwhelming response to our previous events still echoes in our halls. Let's replicate that grandeur, that spark, and that spirit of AI, at this extraordinary platform once again. \n\nLooking forward to seeing you there, champions of AI! \n\n#AIConference #ArtificialIntelligence #EarlyBird #InnovativeTalks #NetworkingEvents #RegisterNow"
+      }
+    ],
+    "type": "Social media",
+    "iconName": "fab fa-linkedin",
+    "iconColor": "#5BC0C3",
+    "title": "LinkedIn Post",
+    "description": "Stechen Sie mit kreativen und  LinkedIn-Beiträgen heraus."
+  },
+  {
+    "name": "Jobausschreibung",
+    "prompt": "Verfassen Sie eine überzeugende Jobausschreibung für die Position {position} bei {unternehmen}. Beschreiben Sie die Aufgaben {aufgaben}, Anforderungen {anforderungen} und das Arbeitsumfeld {arbeitsumfeld}. Betonen Sie auch die Vorteile {vorteile} einer Anstellung bei {unternehmen} und die Möglichkeiten zur beruflichen Entwicklung {entwicklungsmoeglichkeiten}.",
+    "placeholders": [
+      {
+        "label": "Position",
+        "type": "input",
+        "example": "Frontend-Entwickler"
+      },
+      {
+        "label": "Unternehmen",
+        "type": "input",
+        "example": "Robowriter"
+      },
+      {
+        "label": "Aufgaben",
+        "type": "textarea",
+        "example": "Entwicklung und Wartung von benutzerfreundlichen Front-End-Schnittstellen, enge Zusammenarbeit mit unserem Design- und Backend-Team, Sicherstellen einer reibungslosen Benutzererfahrung auf Desktop- und mobilen Plattformen."
+      },
+      {
+        "label": "Anforderungen",
+        "type": "textarea",
+        "example": "Fundierte Kenntnisse in JavaScript und React oder Vue, Erfahrung mit REST-APIs und Git, gute Kenntnisse in CSS und HTML, ein gutes Gespür für Design und User Experience sind von Vorteil."
+      },
+      {
+        "label": "Arbeitsumfeld",
+        "type": "textarea",
+        "example": "Ein flexibles und dynamisches Arbeitsumfeld in einem aufstrebenden Tech-Unternehmen mit flachen Hierarchien, Freiraum für Eigenverantwortung und kreative Ideen, hervorragende Karriere- und Weiterbildungsmöglichkeiten."
+      },
+      {
+        "label": "Vorteile",
+        "type": "textarea",
+        "example": "Attraktive Vergütung, flexible Arbeitszeiten inklusive Homeoffice, kostenloses Catering im Büro, Teilnahme an Team-Events, kooperative und freundschaftliche Arbeitsatmosphäre."
+      },
+      {
+        "label": "Entwicklungsmöglichkeiten",
+        "type": "textarea",
+        "example": "Weiterbildung in neuen Technologien, persönliche Entwicklungsmöglichkeiten durch Teilnahme an Fachkonferenzen und Schulungen, Karrierechancen in einem schnell wachsenden Unternehmen."
+      }
+    ],
+    "replaceValues": [
+      "position",
+      "unternehmen",
+      "aufgaben",
+      "anforderungen",
+      "arbeitsumfeld",
+      "vorteile",
+      "entwicklungsmoeglichkeiten"
+    ],
+        "sampleOutputs": [
+      {
+        "length": "kurz",
+        "outputGer": "Stellenausschreibung: Frontend-Entwickler (m/w/d) bei Robowriter GmbH\n\nWir suchen einen kreativen und engagierten Frontend-Entwickler für die Entwicklung und Wartung von benutzerfreundlichen Front-End-Schnittstellen. Sie werden eng mit unserem Design- und Backend-Team zusammenarbeiten, um eine reibungslose Benutzererfahrung auf Desktop- und mobilen Plattformen zu gewährleisten.\n\nAnforderungen:\n- Fundierte Kenntnisse in JavaScript und React oder Vue\n- Erfahrung mit REST-APIs und Git \n- Gute Kenntnisse in CSS und HTML \n- Gutes Gespür für Design und User Experience\n\nWir bieten:\n- Ein flexibles und dynamisches Arbeitsumfeld \n- Flache Hierarchien und Freiraum für kreative Ideen \n- Attraktive Vergütung und flexible Arbeitszeiten inklusive Homeoffice \n- Kostenloses Catering im Büro, Team-Events und eine kooperative Arbeitsatmosphäre\n- Hervorragende Karriere- und Weiterbildungsmöglichkeiten.\n\nWenn Sie sich beruflich weiterentwickeln wollen, ist Robowriter der ideale Ort für Sie! Wir investieren in Ihre Weiterbildung in neuen Technologien und bieten persönliche Entwicklungsmöglichkeiten durch Teilnahme an Fachkonferenzen und Schulungen. Nutzen Sie Ihre Karrierechancen in einem schnell wachsenden Unternehmen!\n\nBewerben Sie sich noch heute und gestalten Sie die Zukunft mit uns!",
+        "outputEng": "Job Title: Frontend Developer\n\nAre you passionate about creating user-friendly interfaces and ensuring seamless user experiences? Robowriter invites you to join as a Frontend Developer. \n\nResponsibilities:\n- Developing and maintaining front-end interfaces\n- Collaborating closely with our design and backend team \n- Ensuring seamless user experience on desktop and mobile platforms\n\nRequirements:\n- Proficiency in JavaScript and React or Vue\n- Experience with REST APIs and Git\n- Good knowledge of CSS and HTML\n- Good sense of design and User Experience\n\nWe offer:\n- Attractive compensation and flexible working hours including home office \n- Free office catering and participation in team events\n- A cooperative work atmosphere in a dynamic tech company with flat hierarchies\n- Opportunities for professional growth and development\n- Participation in expert conferences and trainings\n\nJoin us to foster your career while enjoying utmost job flexibility and a friendly work environment. We believe in nurturing talent and providing an atmosphere that’s conducive to creative thought. With us, you will be able to take your career to the next level. \n\nExcited about the opportunity? Apply now!"
+      },
+      {
+        "length": "normal",
+        "outputGer": "**Frontend-Entwickler (m/w/d) bei Robowriter gesucht**\n\nDu hast Spaß an der Entwicklung von benutzerfreundlichen User-Interfaces und legst Wert auf eine reibungslose User Experience? Du arbeitest gerne in einem technologiegetriebenen Umfeld und möchtest Teil eines dynamischen Teams sein? Das ist deine Chance, denn wir suchen einen engagierten und talentierten Frontend-Entwickler (m/w/d) für unser Team bei Robowriter.\n\n**Deine Aufgaben:**\n\n* Entwicklung und Wartung von benutzerfreundlichen Front-End-Schnittstellen\n* Enge Zusammenarbeit mit unserem Design- und Backend-Team \n* Sicherstellung einer reibungslosen Benutzererfahrung auf Desktop- und mobilen Plattformen \n\n**Dein Profil:**\n\n* Fundierte Kenntnisse in JavaScript und React oder Vue \n* Erfahrung mit REST-APIs und Git \n* Gute Kenntnisse in CSS und HTML\n* Ein gutes Gespür für Design und User Experience sind von Vorteil \n\n**Unser Arbeitsumfeld:**\n\nWir bieten dir ein flexibles und dynamisches Arbeitsumfeld in einem aufstrebenden Tech-Unternehmen mit flachen Hierarchien. Bei uns hast du Freiraum für Eigenverantwortung und kreative Ideen. Nutze unsere hervorragenden Karriere- und Weiterbildungsmöglichkeiten.\n\n**Deine Vorteile:**\n\n* Attraktive Vergütung \n* Flexible Arbeitszeiten inklusive Homeoffice \n* Kostenloses Catering im Büro \n* Teilnahme an spannenden Team-Events \n* Kooperative und freundschaftliche Arbeitsatmosphäre\n\n**Deine Möglichkeiten zur beruflichen Entwicklung:**\n\n* Weiterbildung in neuen Technologien \n* Persönliche Entwicklungsmöglichkeiten durch Teilnahme an Fachkonferenzen und Schulungen \n* Karrierechancen in einem schnell wachsenden Unternehmen\n\nHast du Lust bekommen, unser Team zu vergrößern und deine Fähigkeiten in ein Unternehmen einzubringen, das Innovation groß schreibt? Dann freuen wir uns darauf, mehr von dir zu erfahren. \n\nBewirb dich jetzt und werde Teil unseres Teams bei Robowriter!",
+        "outputEng": "Job Posting: Frontend Developer at Robowriter\n\nRobowriter is looking for a passionate Frontend Developer to join our fast-growing tech company. We work in a flexible and dynamic environment, offering excellent career opportunities and on-going professional development. Our flat hierarchy encourages initiative and innovation, allowing for plenty of space to own your work and creative ideas.   \n\nRoles and Responsibilities:\n\n- Development and maintenance of user-friendly frontend interfaces.\n- Collaborating closely with our design and backend teams.\n- Ensuring a seamless user experience on both desktop and mobile platforms. \n\nRequirements:\n\n- Proficient in JavaScript and React or Vue.\n- Experience with REST APIs and Git.\n- Good understanding of CSS and HTML.\n- A keen eye for design and a strong understanding of User Experience are beneficial. \n\nWhat You Can Expect:\n\n- Attractive remuneration.\n- Flexible working hours including the possibility of remote working.\n- Free catering at the office.\n- Participation in team events.\n- A cooperative and friendly work environment. \n\nProfessional Development:\n\n- Stay ahead of the curve with continuous learning about the latest technologies.\n- Personal growth opportunities with participation in professional conferences and trainings.\n- Great opportunities for advancement in a fast-growing company.\n\nIf you meet the above requirements and enjoy a workplace that values team spirit, creativity, and professional growth, we’d love to hear from you. Apply now and start your exciting journey with us at Robowriter. \n\nRobowiter is proud to be an equal opportunity employer. We cherish diversity and are committed to creating an inclusive environment for all employees.\n"
+      },
+      {
+        "length": "lang",
+        "outputGer": "Stellenangebot: Frontend-Entwickler (m/w/d) bei Robowriter\n\nWir sind Robowriter, ein innovatives Tech-Unternehmen im Herzen der digitalen Welt. Mit Begeisterung und Expertise entwickeln wir künstliche Intelligenz-gestützte Lösungen. Unser inhouse entwickeltes Produkt steht für höchste Qualität und hat uns zu einem der führenden Unternehmen unserer Branche gemacht. \n\nWachsen Sie mit uns! Im Rahmen der Erweiterung unseres Teams suchen wir ab sofort eine*n engagierte*n Frontend-Entwickler (m/w/d).\n\nIhre Aufgaben:\n\n- Sie entwickeln und warten benutzerfreundliche Front-End-Schnittstellen für unsere Dienstleistungen und Produkte.\n- Sie arbeiten eng mit unserem Design- und Backend-Team zusammen und bilden so die Brücke zwischen den visuellen Elementen und der serverseitigen Infrastruktur.\n- Sie gewährleisten eine reibungslose und ansprechende Benutzererfahrung auf Desktop- und mobilen Plattformen.\n\nIhr Profil:\n\n- Sie verfügen über fundierte Kenntnisse in JavaScript und Frameworks wie React oder Vue.\n- Sie haben Erfahrung im Umgang mit REST-APIs und Git.\n- Sie besitzen gute Kenntnisse in CSS und HTML.\n- Ein gutes Gespür für Design und User Experience ist von Vorteil, aber kein Muss.\n\nWas wir Ihnen bieten:\n\n- Ein flexibles und dynamisches Arbeitsumfeld: Sie haben die Möglichkeit, flexibel zu arbeiten, auch im Homeoffice. Bei uns wird Vielfalt und Eigenverantwortung großgeschrieben.\n- Hervorragende Weiterbildungschancen: Sie werden die Chance haben, Ihre Fähigkeiten weiter auszubauen. Wir unterstützen Ihre Entwicklung durch interne und externe Schulungen sowie Teilnahme an Fachkonferenzen.\n- Flache Hierarchien und eine offene, kooperative und freundschaftliche Arbeitsatmosphäre.\n- Attraktive Vergütung: Neben einem sicheren Arbeitsplatz in einer wachsenden Branche bieten wir Ihnen auch eine faire und attraktive Vergütung.\n- Kostenlose Caterings und Team-Events: Bei uns kommt die gemeinsame Zeit neben der Arbeit nicht zu kurz. Wir fördern den Teamgeist durch regelmäßige Events und bieten zudem kostenlose Verpflegung im Büro.\n- Karrierechancen in einem schnell wachsenden Unternehmen: Nutzen Sie die Chance, mit uns zu wachsen und Ihre Karriere voranzutreiben.\n\nWir suchen Menschen, die mit uns die Zukunft gestalten wollen. Menschen, die den Willen haben, in einem dynamischen Umfeld erfolgreich zu sein. Erkennen Sie sich darin wieder? Dann freuen wir uns auf Ihre Bewerbung und darauf, Sie kennenzulernen!\n\nSchicken Sie bitte Ihr Anschreiben, Ihren Lebenslauf und Ihre Zeugnisse an unsere Personalabteilung. Für Rückfragen stehen wir Ihnen selbstverständlich jederzeit zur Verfügung.\n\nRobowriter freut sich auf Sie!",
+        "outputEng": "**Job Title**: Frontend Developer at Robowriter\n\n**About Robowriter**\n\nWelcome to Robowriter, a fast-rising tech company committed to pioneering new horizons in the digital world. At the core of our philosophy lie innovation, creativity and the thirst for excellence. We champion a versatile, dynamic and inclusive working environment where everyone has a voice, every opinion matters and every talent is recognized.\n\n**Your Role as a Frontend Developer**\n\nRobowriter is on the hunt for an ardent, detail-oriented and experienced Frontend Developer. You will join our robust team, focused on creating top-tier, user-friendly frontend interfaces that set the standard for the modern web.\n\nThis role demands: \n\n- Developing and maintaining cutting-edge, user-centric front-end interfaces. \n- Collaborating closely with our design and backend teams to ensure seamless integration, functionality, and aesthetic appeal. \n- Ensuring a fluid, uninterrupted user experience across desktop and mobile platforms. \n\n**Ideal Candidate: Skills and Experience Required**\n\n- Proficient knowledge in JavaScript and React or Vue, with demonstrated experience in deploying sophisticated frontend frameworks.\n- Experience working with REST APIs and Git. \n- Solid understanding of CSS and HTML.\n- A sharp eye for design and user experience. Your knack for creating visually appealing, intuitive interfaces will be an added advantage. \n\n**Working at Robowriter: The Perks**\n\nA competitive compensation package awaits the successful candidate. However, the Robowriter experience goes beyond that:\n\n- Enjoy flexible working hours designed to cater to your work-life balance. We appreciate your hard work and believe you deserve the liberty to work when you're most productive.\n- Get the option to work from home. We trust in your ability to deliver, regardless of your location. \n- Join us for fun, team-building events that foster camaraderie and mutual respect amongst our diverse team members.\n- Feel free to help yourself to the complimentary office catering - it's on the house!\n- Our flat hierarchies mean that your contributions are valued and influence our outcomes. \n\n**Career Progression & Professional Development**\n\nAt Robowriter, we believe in fostering a culture of continuous learning and professional growth. Hence, we're committed to:\n\n- Immerse yourself in new technologies and tech trends via robust, industry-informed training programs.\n- Participate in specialist conferences, industry events, and training courses to build your network and keep you in touch with the latest in your field. \n- Depending on your career ambitions and performance, your future in Robowriter may unfold in many exciting ways, for we are growing, and we want you to grow with us.\n\nOverall, our aim at Robowriter is to create a harmonious, exciting environment where the daily grind meets pioneering innovation intertwined with fun. \n\nEmbrace this excellent opportunity to build your career in a supportive, futuristic, and ambitious environment. Join Robowriter and let's shape the future of technology together. Apply today!"
+      }
+    ],
+    "type": "HR",
+    "iconName": "fas fa-users",
+    "iconColor": "#2F97EC",
+    "title": "Jobausschreibung",
+    "description": "Erstellen Sie eine überzeugende Jobausschreibung, um qualifizierte Bewerber für eine offene Position in Ihrem Unternehmen anzusprechen."
+  }
+]
